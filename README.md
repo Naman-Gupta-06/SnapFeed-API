@@ -1,4 +1,4 @@
-# vMine API
+# SnapFeed API
 
 ## Environment Variables Required
 
@@ -59,6 +59,6 @@
 8. **GET: /api/post/{post_id}/{comment_id}**: Retrieves all the comments on the Give post id
 9. **GET: /api/post/{post_id}/{comment_id}/reply**: Retrieves all the replies on that given comment of the given post
 
-#### Made By: B.S.N. Abhiram
-#### Email: abhirambsn@gmail.com
-#### GitHub: [@abhirambsn](https://github.com/abhirambsn)
+#### Made By: Naman Gupta
+#### Email: namangupta990@gmail.com
+#### GitHub: [@Naman-Gupta-06](https://github.com/Naman-Gupta-06/)
